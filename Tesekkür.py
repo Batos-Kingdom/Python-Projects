@@ -4,28 +4,7 @@ from datetime import datetime
 
 # Öğrenci listesi
 ogrenciler = [
-    "1.Arda Korkmaz",
-    "2.Veysel Can Yıldız",
-    "3.Doğanay Duran",
-    "4.Fatma Dilara Tiren",
-    "5.Ömer Akkuş",
-    "6.Arda Deniz Yıldırım",
-    "7.Ulaş Doruk Karakuş",
-    "8.Yiğit Efe Çınar",
-    "9.Emirhan Kartal",
-    "10.Ege Karakuş",
-    "11.Miraç Meydan",
-    "12.Mehmet Ali Çınar",
-    "13.Kerim Kılıçoğlu",
-    "14.Deniz Akpınar",
-    "15.Efe Ersoy",
-    "16.Berat Arif Gönül",
-    "17.Samed Özkan",
-    "18.Kaan Bahçeci",
-    "19.Umut Arslan",
-    "20.Atakan Kerim",
-    "21.Abdurrahman Kütük",
-    
+    "Öğrenci list"
 ]
 
 # Teşekkür mesajlarını sırayla göstermek için
