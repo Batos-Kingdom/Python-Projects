@@ -31,7 +31,7 @@ pencere.geometry("450x300")
 pencere.configure(bg="#1c1c1c")
 
 # Başlık
-etiket = tk.Label(pencere, text="Tüm öğrencilerden bilişim hocamıza teşekkür mesajları!",
+etiket = tk.Label(pencere, text="Tüm öğrencilerden teşekkür mesajları!",
                   font=("Arial", 12, "bold"), fg="white", bg="#1c1c1c", wraplength=400)
 etiket.pack(pady=30)
 
